@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', 'Arial', sans-serif;
+  background-color: #ffffff;
+  color: #202124;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #202124;
+}
+
+a {
+  color: #4285f4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+.container {
+  background-color: #f1f3f4;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.error {
+  color: #ea4335;
+}
